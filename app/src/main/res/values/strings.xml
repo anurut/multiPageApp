@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">multiPageApp</string>
+    <string name="title">My Restaurant</string>
+    <string name="item1hint">Item 1</string>
+    <string name="item2hint">Item 2</string>
+    <string name="item3hint">Item 3</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="pleaseWait">Please Wait</string>
+</resources>
